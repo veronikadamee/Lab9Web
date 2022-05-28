@@ -1,7 +1,7 @@
 # Lab9Web
 dan link Lab10Web
 
-###### Nama : Veronika Dame
+###### Nama : Veronika Rustiani Dame Sihombing
 ###### NIM : 312010325
 ###### Kelas : TI.A.2
 
@@ -59,4 +59,4 @@ Hasil output dengan menggunakan file yang terpisah tetapi di satukan dengan modu
 
 
 ## Link Lab10Web OOP (object oriented programming)
-#### 
+#### https://github.com/veronikadamee/Lab10Web
