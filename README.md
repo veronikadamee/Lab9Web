@@ -1,8 +1,8 @@
 # Lab9Web
 dan link Lab10Web
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Dame
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 ## Tugas PHP Modular
@@ -59,4 +59,4 @@ Hasil output dengan menggunakan file yang terpisah tetapi di satukan dengan modu
 
 
 ## Link Lab10Web OOP (object oriented programming)
-#### https://github.com/faraclara/Lab10Web
+#### 
